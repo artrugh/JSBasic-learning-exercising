@@ -1,0 +1,1 @@
+// crate 3 exercises in which you should use arrays and strings methods.
